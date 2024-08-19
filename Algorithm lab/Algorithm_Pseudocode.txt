@@ -1,0 +1,9 @@
+get array of integers
+set sum variable = 0
+
+iterate through array for pos numbers:
+	if pos:
+		sum += the positive number
+
+average the sum variable
+print average
